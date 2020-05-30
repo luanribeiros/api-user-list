@@ -1,6 +1,6 @@
 # An api for the user list frontend
 
-[find the frontend here](git@github.com:luanribeiros/user-list.git)
+[find the frontend here](https://github.com/luanribeiros/user-list)
 
 ## Dependencies:
 
