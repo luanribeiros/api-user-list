@@ -1,6 +1,6 @@
-# An api for the shoe store frontend
+# An api for the user list frontend
 
-[find the frontend here](https://github.com/luanribeiros/shoes-store)
+[find the frontend here](git@github.com:luanribeiros/user-list.git)
 
 ## Dependencies:
 
@@ -8,12 +8,12 @@
 
 ## Up and running
 
-- Clone this repository: `git clone git@github.com:luanribeiros/api-shoes-store.git`;
+- Clone this repository: `git clone git@github.com:luanribeiros/api-user-list.git`;
 - Remove `.git` directory;
 - Install dependencies: `yarn` (or `npm install`);
-- Run yarn `(or`npm start`) to develop on`http://localhost:4000`
+- Run yarn `(or`npm start:dev`) to develop on`http://localhost:4000`
 - Run `yarn build` (or `npm run build`) for production build (files will be generated on `dist` directory)
 
 ## License
 
-[MIT](https://github.com/luanribeiros/api-shoes-store/blob/master/LICENSE.md) &copy; Luan Ribeiro
+MIT &copy; Luan Ribeiro
