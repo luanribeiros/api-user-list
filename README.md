@@ -1,4 +1,4 @@
-# An api for the user list frontend
+# An API for the user list frontend and persisting data in mongoDB
 
 [find the frontend here](https://github.com/luanribeiros/user-list)
 
